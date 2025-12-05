@@ -1,7 +1,4 @@
-Of course! Here is a **clean and final README.md** version **without screenshots section** — ready to upload to GitHub 👇
-(You can add images later)
 
----
 
 ## 📌 Employee Management REST API (Spring Boot)
 
